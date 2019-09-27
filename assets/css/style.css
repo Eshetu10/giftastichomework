@@ -1,0 +1,94 @@
+input#movie-input {
+    color:rgb(24, 0, 0);
+    border: 2px;
+    background: white;
+    border-style: solid;
+    border-color:gray;
+}
+
+input#add-movie.btn,btn-deafult {
+    color :rgb(0, 0, 0);
+    background-color: gray;
+}
+.nonn {
+    display: inline;
+    
+}
+
+.anim-tv {
+    font-family: 'Concert One', monospace;
+	background:gray;
+	border-radius: 11px;
+	color: white;
+	font-style: Courier, monospace;
+	font-size: 15px;
+	padding: 11px;
+	margin: 6px;
+	margin-top: 21px;
+
+}
+
+.gifcontainer {
+	display: flex;
+	justify-content: left;
+	flex-flow: wrap;
+}
+.imgAndRating {
+	background-color: gray;
+	margin: 11px;
+	padding: 11px
+}
+
+#movie-form {
+	text-align: right;
+	float: left;
+
+}
+
+img {
+	height: 151px;
+	width: 251px;
+	margin: 21px;
+}
+
+body {
+	font-family: 'Concert One', monospace;
+	background-image: url("https://memestatic.fjcdn.com/pictures/Pic+of+falcon+9+take+off_c729c2_6653802.jpg");
+	color: rgb(239, 225, 225);
+}
+
+.container {
+	position: relative;
+}
+
+header.jumbotron {
+    background-color: gray;
+    
+	border-radius: 25px;
+}
+
+p {
+    font-family: 'Concert One', monospace;
+    color: white;
+	padding: 11px;
+	font-size: 19px;
+}
+
+
+h1 {
+    font-family: 'Concert One', monospace;
+    color: white;
+	font-style: bold;
+	font-size: 23px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 9px;
+}
+
+h3 {
+	font-family: 'Concert One', monospace;
+	color: white;
+	padding-right: 11px;
+	padding-bottom: 11px;
+}
+
